@@ -1,0 +1,23 @@
+{
+    "name": "Bid on the team and win ",
+    "description": "
+
+Our project, the Sports Match Auction & Profit Sharing system, revolutionizes how sports matches are organized and profits are distributed. Teams can now bid on participating in matches before they commence, injecting an element of strategy and excitement into the process. 
+
+Here's how it works: teams submit bids indicating the amount they're willing to invest in joining the match. Once the bidding phase concludes, matches proceed as scheduled. After the final whistle, our system calculates the total profit generated, taking into account ticket sales, sponsorships, and broadcasting rights. 
+
+The beauty lies in the profit-sharing mechanism. The winning team(s) receive a portion of the total profit proportional to their bid contribution. This ensures fairness and incentivizes teams to bid strategically, considering both their potential investment and performance on the field.
+
+Powered by modern web technologies and Auction ADO for efficient data management, our platform provides a seamless experience for teams to participate in auctions, view match schedules, and track results. Transparency and equality are at the core of our system, fostering a vibrant and competitive sports ecosystem. Join us in reshaping the future of sports match organization and profit distribution!",
+    "image": "https://media.gettyimages.com/id/1286535304/photo/excited-millennial-man-in-glasses-sit-at-table-in-kitchen-feel-euphoric-win-online-lottery-on.jpg?s=612x612&w=0&k=20&c=G42P1us9XpetOi-l8lfW9bSmqEZHiUtNSDUUXlFLBME=",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
